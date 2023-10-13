@@ -5,4 +5,6 @@ This repository contains all file and document relating to HW1 of ADM course of 
 
 
 python_solutions.py contains python codes for Problem 1 and Problem 2
+
+
 merged_pdf.pdf contains merged submissions page of HackerRank
